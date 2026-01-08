@@ -1,0 +1,8 @@
+{
+  "name": "SUECAP - Sueños Capturados",
+  "description": "Plataforma premium impulsada por IA para la creación, edición y animación de videos e imágenes con estilos únicos como arcilla, lana y realidad virtual.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
